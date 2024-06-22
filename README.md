@@ -5,7 +5,7 @@ Assignment: GitHub and Visual Studio
 Instructions:
 Answer the following questions based on your understanding of GitHub and Visual Studio. Provide detailed explanations and examples where appropriate.
 
-Questions:
+Questions:  
 Introduction to GitHub:
 
 What is GitHub, and what are its primary functions and features? Explain how it supports collaborative software development.
